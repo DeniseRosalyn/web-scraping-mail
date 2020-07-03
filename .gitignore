@@ -1,0 +1,6 @@
+# config & build files for scrapinghub.com
+
+build/
+project.egg-info/
+scrapinghub.yml
+setup.py
